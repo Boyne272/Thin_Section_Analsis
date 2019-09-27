@@ -4,7 +4,7 @@
 
 **Richard Boyne (GitHub: Boyne272, CID: 01057503, email: rmb115@ic.ac.uk)**
 
-**This repo holds the Thin Section Analysis (TSA) python package, a tool set designed to help build workflows to automate aspects of thin section image analysis. Full documentation and user manual (with examples) is available [here](https://msc-acse.github.io/acse-9-independent-research-project-Boyne272/index.html)**
+**This repo holds the Thin Section Analysis (TSA) python package, a tool set designed to help build workflows to automate aspects of thin section image analysis. Full documentation and user manual (with examples) is available [here](https://boyne272.github.io/Thin_Section_Analsis/)**
 
 
 ## Repository Structure
