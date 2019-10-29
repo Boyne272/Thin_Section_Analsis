@@ -1,0 +1,19 @@
+This gui was only half way to the prototype
+version, so has many parts not fully working.
+
+The main idea is to have a user select segments
+already made by SIC/MSLIC and clustered by other
+methods and correct misclassifications. The
+ability to select a cluster grtaphically was
+made via tkinter and matplotlib, however the
+infrastructure to save these selection and then
+extract useful information from them is still to
+be implemented.
+
+My main advice would be to take this as a 
+suggestion for what should be made rather
+than a starting point.
+
+WARNING: tkinter only ever loads if you call
+the python file from command line as most
+IDEs either use it or disable it.
